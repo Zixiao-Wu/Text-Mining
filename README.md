@@ -19,4 +19,4 @@ This course introduces the methods of mining, organizing, summarizing, and analy
 3. Framework: This project uses two text mining methods. The first is Latent Dirichlet Allocation (LDA) topic modeling to identify the main topics and concerns mentioned in the reviews for each of the three Disneyland parks. The second is sentiment analysis to determine the sentiment of each review and compare the sentiment tendencies towards different branches. And in the sentiment analysis we also compare the characteristics of customer reviews in different periods 
 4. Result: By analyzing the data, we were able to find differences in the specific focus and sentiment of the reviews and conclude how to improve customer experience
 
-COurse Instructor: Yulia Nevskaya, Ph.D
+Course Instructor: Yulia Nevskaya, Ph.D
