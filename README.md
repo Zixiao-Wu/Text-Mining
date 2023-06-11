@@ -1,5 +1,7 @@
 # **DAT 562 Text Mining Spring 2023**
 
+This repository contains report and Python code of final project of Text Mining course.
+
 ## **Course Description:**
 
 This course introduces the methods of mining, organizing, summarizing, and analyzing text data with the objective of supporting decision-making.
